@@ -3,6 +3,26 @@
 FormPilot AI is an intelligent MERN-based automation platform designed to simplify complex online form submissions. It reads form webpages, extracts required details, validates documents, auto-fills fields, and completes full submission — minimizing human error and saving time.
 
 ---
+##Smart Document & Form Automation System for Students
+
+###⭐ 1. Problem Statement
+
+Students face repeated frustration while filling online forms—scholarships, admissions, internships, exams, or government portals.
+Common problems include:
+
+Forms require specific document sizes, formats, and resolutions (e.g., JPG only, <100 KB, 200×200 px).
+
+Students often upload the wrong document, leading to rejection.
+
+Manual compressing, resizing, renaming, converting is time-consuming.
+
+Re-entering the same details across multiple forms leads to mistakes, like wrong DOB, incorrect document upload.
+
+Many students don’t understand technical document requirements.
+
+This leads to rejections, delays, and stress, especially in rural or first-time student communities.
+
+#🌟 2. Solution — FormPilot AI
 
 ## 🚀 Key Features
 
